@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1088119093877",
+    "project_id": "dapp-ab962",
+    "storage_bucket": "dapp-ab962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088119093877:android:2479bc3bc24c7e2d86563c",
+        "android_client_info": {
+          "package_name": "com.kirtayinteractive.dapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088119093877-7racl7ksgjs3akap7ludrh8nkb1ihqfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kirtayinteractive.dapp",
+            "certificate_hash": "6373133774638d73f0c90aa9018026a25210d964"
+          }
+        },
+        {
+          "client_id": "1088119093877-ai5vkf9l4iq9p09gl1av4fc9dpafo6b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWjP2SV4K5KjHgllx9HxbenG4W11BezPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088119093877-ai5vkf9l4iq9p09gl1av4fc9dpafo6b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
